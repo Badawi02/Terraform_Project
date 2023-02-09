@@ -39,5 +39,7 @@
 -----------------------------------------------------------------
 ![agent](https://github.com/Badawi02/Terraform_Project/blob/main/images/12.PNG)
 -----------------------------------------------------------------
+![agent](https://github.com/Badawi02/Terraform_Project/blob/main/images/13.PNG)
+-----------------------------------------------------------------
 ## Contributors:
 - [Ahmed Badawi](https://github.com/Badawi02)
